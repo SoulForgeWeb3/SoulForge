@@ -14,7 +14,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 # SoulForge: Advanced Digital Life & Metaverse Pioneer
 
 <p align="center">
-  <img src="SoulForge.svg" alt="SoulForge Logo" width="200"/>
+  <img src="SoulForge.png" alt="SoulForge Logo" width="200"/>
 </p>
 
 ## 🌟 Vision
